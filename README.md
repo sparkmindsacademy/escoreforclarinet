@@ -1,6 +1,6 @@
 # Clarinet Integrated E-Sheet System
 
-[![Project Demo](<!-- GIF_OR_VIDEO_PLACEHOLDER -->)](https://youtube.com/your-demo-video)  
+[![Project Demo](<!-- GIF_OR_VIDEO_PLACEHOLDER -->)](https://github.com/sparkmindsacademy/escoreforclarinet/blob/main/Pics/introduction.gif)  
 *(Click to view demonstration video)*
 
 ## 🎻 Revolutionizing Woodwind Performance
