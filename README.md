@@ -1,6 +1,6 @@
 # Clarinet Integrated E-Sheet System
 
-[![Project Demo](<!-- GIF_OR_VIDEO_PLACEHOLDER -->)](https://github.com/sparkmindsacademy/escoreforclarinet/blob/main/Pics/introduction.gif)  
+[![Project Demo](<!-- GIF_OR_VIDEO_PLACEHOLDER -->)](Pics/introduction.gif)  
 *(Click to view demonstration video)*
 
 ## 🎻 Revolutionizing Woodwind Performance
@@ -37,7 +37,7 @@
 | Connectivity | WiFi 802.11 b/g/n |
 | Power | 500mAh Li-Po |
 
-![Hardware Installation](<!-- HARDWARE_IMAGE_PLACEHOLDER -->)
+![Hardware Installation](Pics/pic3.png)
 
 ## 🛠️ Installation Guide
 1. **Mount the Module**
@@ -62,9 +62,9 @@ Full Technical Specification
 Acoustic Impact Analysis
 Environmental Impact Report
 🚧 Roadmap
-​​Q3 2024​​: AR Visualization Module
-​​Q4 2024​​: Multi-Instrument Support
-​​Q1 2025​​: AI-Powered Practice Analytics
+​​Q3 2025: AR Visualization Module
+​​Q4 2025​​: Multi-Instrument Support
+​​Q1 2026​​: AI-Powered Practice Analytics
 🤝 Contribution Guidelines
 We welcome PRs for:
 
@@ -72,4 +72,4 @@ Improved MusicXML parsing
 Additional gesture controls
 Language localization
 📜 License
-GPL-3.0 © 2024 [Your Name]
+GPL-3.0 © 2024 [SparkMinds]
